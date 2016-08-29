@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/vsekhar/gotv",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/dustin/go-humanize",
+			"Rev": "8929fe90cee4b2cb9deb468b51fb34eba64d1bf0"
+		}
+	]
+}
