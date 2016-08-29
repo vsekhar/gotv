@@ -22,3 +22,13 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+*.log
+*.mpg
+*.mpeg
+*.mp4
+
+*.sublime-project
+*.sublime-workspace
+
+channels.conf
